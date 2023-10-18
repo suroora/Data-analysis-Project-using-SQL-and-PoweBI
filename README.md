@@ -1,7 +1,7 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](https://github.com/suroora/Data-analysis-Project-using-SQL-and-PoweBI/blob/master/HR%20powerBI%20Dashbord%201.png)
-![image](https://github.com/suroora/Data-analysis-Project-using-SQL-and-PoweBI/blob/master/HR%20powerBI%20Dashbord%202.png)
+![image](https://github.com/suroora/Data-analysis-Project-using-SQL-and-PoweBI/blob/master/HR%20Dashbord%201.png)
+![image](https://github.com/suroora/Data-analysis-Project-using-SQL-and-PoweBI/blob/master/HR%20Dashbord%202.png)
 
 ## Data Used
 
